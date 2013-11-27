@@ -4,7 +4,7 @@ inherit cross gnome2
 
 NAME="mingw64-i686-librsvg2"
 VERSION=2.36.4
-RELEASE=1
+RELEASE=2
 CATEGORY="Devel"
 SUMMARY="GNOME SVG library for Win32 toolchain"
 DESCRIPTION="libRSVG is a very fast SVG rendering engine written in C. It
